@@ -14,8 +14,8 @@ nav {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #616161;
-    color: #fff;
+    background-color: #fff;
+    color: #1f1f1f;
     display: flex;
     height: 7vw;
     width: 100%;
